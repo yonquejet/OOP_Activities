@@ -1,3 +1,4 @@
+#la_1
 class roblox():
     rblxGame = "DressToImpress"
     rblxGame2 = "BloxFruits"
@@ -7,4 +8,3 @@ class roblox():
 game = roblox()
 print(f"{game.rblxGame} is the best? {game.favorite}")
 print(f"{game.rblxGame2} is the best? {game.notFavorite}")
-

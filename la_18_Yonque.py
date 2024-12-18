@@ -1,3 +1,4 @@
+#la_18
 class silog:
     def __init__(self, ulam, sinangag, itlog):
         self.ulam = ulam

@@ -1,3 +1,4 @@
+#la_6
 class Laptop:
     def __init__(self,brand,model):
         pass

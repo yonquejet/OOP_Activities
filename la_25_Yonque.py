@@ -1,3 +1,4 @@
+#la_25
 from abc import ABC, abstractmethod
 class Character(ABC): #abstract class
     @property

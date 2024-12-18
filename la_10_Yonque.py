@@ -1,3 +1,4 @@
+#la_10
 #parent class
 class Vehicle():
     def __init__(self, brand, model, fuel_type):

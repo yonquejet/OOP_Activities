@@ -1,3 +1,5 @@
+#la_19
+#expected output: error
 class silog:
     def __init__(self, ulam, sinangag, itlog):
         self.ulam = ulam

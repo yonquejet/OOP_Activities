@@ -1,3 +1,4 @@
+#la_12
 #parent class
 class Toy():
     def __init__(self, name, price):

@@ -1,3 +1,5 @@
+#la_21
+#update la_20 value
 class silog:
     def __init__(self, ulam, sinangag, itlog):
         self.ulam = ulam

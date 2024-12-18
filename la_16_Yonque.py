@@ -1,3 +1,4 @@
+#la_16
 class Appliance:
     def __init__(self, brand, model):
         self.brand = brand
@@ -32,3 +33,4 @@ mwObj = Microwave("Samsung", "Model-5")
 
 for x in (wmObj, fridgeObj, mwObj):
     x.operate()
+    x.method_info()
