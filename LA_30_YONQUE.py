@@ -1,3 +1,4 @@
+#la_30
 import tkinter as tk
 
 root = tk.Tk()
